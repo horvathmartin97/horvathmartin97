@@ -24,12 +24,35 @@ I am a passionate Junior Full-Stack Developer with experience in building modern
 
 ## Projects
 
-- Detailed project descriptions with links can be added here.
-- Include screenshots or demos if possible.
+### [PawMap](#)
+
+PawMap is a collaborative web application developed by three team members. It serves as a platform to collect and share animal-friendly locations. Users can register and log in to the app, create events or places, and interact via live comments. Each location and event includes a description and ratings.
+
+**Technologies used:**
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=github&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+### Backend
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+- Live demo: [https://pawmap.eu](https://pawmap.eu)
+- Frontend repository: https://github.com/horvathmartin97/PawMap-Frontend
+- Backend repository: https://github.com/horvathmartin97/PawMap-Backend
 
 ## Contact
 
-- LinkedIn: [your-linkedin-url]
+- LinkedIn: [www.linkedin.com/in/martin-horváth-069487363]
 - Email: horvathmartinn@icloud.com
 
 ---
