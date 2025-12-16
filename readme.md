@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a Full Stack Developer specializing in crafting intuitive React frontends and robust Node.js backend systems. I excel in designing REST APIs with Express.js, managing databases using Prisma and PostgreSQL, and enhancing application reliability through TypeScript. Passionate about clean code and efficient problem-solving, I strive to build scalable and maintainable solutions. Feel free to explore my projects below or get in touch to discuss how I can help your next project succeed.
+I'm a Full Stack Developer specializing in crafting intuitive React frontends and robust Node.js backend systems. I excel in designing REST APIs with Express.js, managing databases using Prisma and PostgreSQL, and enhancing application reliability through TypeScript. Passionate about clean code and efficient problem-solving, I strive to build scalable and maintainable solutions. Feel free to explore my projects below or get in touch to discuss how I can help your next project succeed.
 
 ## Skills
 
@@ -50,8 +50,10 @@ PawMap is a collaborative web application developed by three team members. It se
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 - Live demo: [https://pawmap.eu](https://pawmap.eu)
-- Frontend repository: https://github.com/horvathmartin97/PawMap-Frontend
-- Backend repository: https://github.com/horvathmartin97/PawMap-Backend
+- Frontend repository: [https://github.com/horvathmartin97/PawMap-Frontend](https://github.com/horvathmartin97/PawMap-Frontend)
+- Backend repository: [https://github.com/horvathmartin97/PawMap-Backend](https://github.com/horvathmartin97/PawMap-Backend)
+
+---
 
 ### [Silver Arrow Car Digital Showroom](https://github.com/horvathmartin97/my-showcase-projects/tree/main/silverArrowCar)
 
@@ -76,36 +78,48 @@ Users can register and log in to manage their own digital "parking lot" by addin
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- SilverArrowCar github: https://github.com/horvathmartin97/my-showcase-projects/tree/main/silverArrowCar
+- SilverArrowCar github: [https://github.com/horvathmartin97/my-showcase-projects/tree/main/silverArrowCar](https://github.com/horvathmartin97/my-showcase-projects/tree/main/silverArrowCar)
+
+---
 
 ### [Szakiautókozmetika – Car Detailing Website](https://szakiautokozmetika.hu)
 
-This project is a modern marketing website built for a professional car detailing service. It focuses on clearly presenting services, building trust, and making it easy for customers to get in touch and find the business.
+A modern, production-ready marketing website developed for a professional car detailing service in Hungary. The project focuses on creating an engaging user experience with multilingual support, smooth animations, and clear calls-to-action to maximize customer engagement.
 
-**Key features:**
-- Multilingual interface (Hungarian and German)
-- Fully responsive layout optimized for mobile, tablet, and desktop
-- Modern UI with smooth animations and section-based navigation
-- Image gallery showcasing previous detailing work
-- Integrated Google Maps for precise location display
-- Fast loading and optimized bundle using Vite
+**Key achievements:**
+- ✅ **Deployed to production** with custom domain and SSL/HTTPS configuration
+- 🌍 **Bilingual interface** (Hungarian/German) to serve broader customer base
+- 📱 **100% responsive design** ensuring optimal experience across all devices
+- ⚡ **Optimized performance** using Vite build tool for fast load times
+- 🎨 **Modern UX/UI** with Framer Motion animations and smooth scroll navigation
+- 🗺️ **Google Maps integration** for easy business location discovery
+- 🖼️ **Dynamic gallery** showcasing portfolio of completed detailing work
 
 **Technologies used:**
-
-### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-- Live demo: [https://szakiautokozmetika.hu](https://szakiautokozmetika.hu)
+**Project highlights:**
+- Custom domain setup with Netlify DNS configuration
+- Automated deployment pipeline from GitHub repository
+- SSL/TLS certificate implementation for secure browsing
+- SEO-optimized structure for better search visibility
+- Accessibility-focused development practices
+
+- **Live demo:** [https://szakiautokozmetika.hu](https://szakiautokozmetika.hu)
+- **Repository:** [GitHub - Szakiautókozmetika](https://github.com/horvathmartin97/my-showcase-projects/tree/main/szakicarcosmetic)
+
+---
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/martin-horváth-069487363
-- Email: horvathmartinn@icloud.com
+- LinkedIn: [linkedin.com/in/martin-horváth-069487363](https://www.linkedin.com/in/martin-horváth-069487363)
+- Email: [horvathmartinn@icloud.com](mailto:horvathmartinn@icloud.com)
 
 ---
 
