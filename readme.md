@@ -124,7 +124,7 @@ A modern, production-ready marketing website developed for a professional car de
 
 ## 🌐 Live Site
 
-[(https://donappetit.hu)](https://donappetit.hu)
+(https://donappetit.hu)
 
 ---
 
@@ -170,7 +170,7 @@ npm run dev
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/martin-horváth-069487363](https://www.linkedin.com/in/martin-horváth-069487363)
+- LinkedIn:https://www.linkedin.com/in/martin-horváth-069487363
 - Email: [horvathmartinn@icloud.com](mailto:horvathmartinn@icloud.com)
 
 ---
