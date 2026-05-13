@@ -2,7 +2,17 @@
 
 ## About Me
 
-I'm a Full Stack Developer specializing in crafting intuitive React frontends and robust Node.js backend systems. I excel in designing REST APIs with Express.js, managing databases using Prisma and PostgreSQL, and enhancing application reliability through TypeScript. Passionate about clean code and efficient problem-solving, I strive to build scalable and maintainable solutions. Feel free to explore my projects below or get in touch to discuss how I can help your next project succeed.
+I'm a Full-Stack Developer specializing in React frontends 
+and Node.js backend systems.
+
+I build REST APIs with Express.js, manage databases with 
+Prisma & PostgreSQL, and write reliable code with TypeScript.
+
+Currently looking for junior opportunities — feel free to 
+explore my projects or reach out!
+
+✉️ martin@martinhorvath.dev
+🌐 martinhorvath.dev
 
 ## Skills
 
@@ -116,10 +126,36 @@ A modern, production-ready marketing website developed for a professional car de
 
 ---
 
+### [Cartly – Smart Shopping List App](https://cartly.martinhorvath.dev)
+
+Cartly is a full-stack shopping list application built from scratch. 
+Users can create, manage, and organize shopping lists in real time.
+
+**Key achievements:**
+- ✅ **Full-stack** — React frontend + Node.js/Express backend
+- 🔐 **JWT authentication** with secure login/register flow
+- 🗄️ **PostgreSQL** database managed with Prisma ORM
+- 📱 **Responsive design** with Tailwind CSS
+- 🚀 **Deployed to production** — frontend on Netlify, backend on Render
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Live demo:** [https://(https://cartlyy.netlify.app/)](https://cartlyy.netlify.app/)]
+- **Repository:** [https://github.com/horvathmartin97/cartly](https://github.com/horvathmartin97/cartly)
+
 ## Contact
 
 - LinkedIn:https://www.linkedin.com/in/martin-horváth-069487363
-- Email: [horvathmartinn@icloud.com](mailto:horvathmartinn@icloud.com)
+- Email: [martin@martinhorvath.dev](mailto:martin@martinhorvath.dev)
 
 ---
 
