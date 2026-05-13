@@ -11,8 +11,8 @@ Prisma & PostgreSQL, and write reliable code with TypeScript.
 Currently looking for junior opportunities — feel free to 
 explore my projects or reach out!
 
-✉️ martin@martinhorvath.dev
-🌐 martinhorvath.dev
+✉️ [martin@martinhorvath.dev](mailto:martin@martinhorvath.dev)
+🌐 [martinhorvath.dev](https://martinhorvath.dev)
 
 ## Skills
 
@@ -149,8 +149,8 @@ Users can create, manage, and organize shopping lists in real time.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Live demo:** [https://(https://cartlyy.netlify.app](https://cartlyy.netlify.app)
-- **Repository:** [https://github.com/horvathmartin97/cartly](https://github.com/horvathmartin97/cartly)
+- **Live demo:** [https://https://cartlyy.netlify.app](https://cartlyy.netlify.app)
+- **Repository:** [https://github.com/horvathmartin97/my-showcase-projects/tree/main/Cartly](https://github.com/horvathmartin97/my-showcase-projects/tree/main/Cartly)
 
 ## Contact
 
